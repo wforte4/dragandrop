@@ -6,6 +6,7 @@
 ## All Files locally to be ignored
 node_modules/
 services/routes.js
+.next/
 
 # User-specific files
 *.rsuser
